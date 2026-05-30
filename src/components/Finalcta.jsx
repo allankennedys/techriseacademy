@@ -128,7 +128,7 @@ export default function FinalCTA() {
             TechRise<span style={{ WebkitTextFillColor: '#00FFF0' }}>.</span>
           </div>
           <div style={{ fontSize: '13px', color: 'var(--muted)' }}>
-            © 2025 TechRise Academy. Todos os direitos reservados.
+            © 2026 TechRise Academy. Todos os direitos reservados.
           </div>
         </div>
       </footer>
